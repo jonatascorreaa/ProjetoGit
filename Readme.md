@@ -1,2 +1,1 @@
-Olá esse projeto ensina você a usar o Git
-Isso é uma alteração
+Esse é meu primeiro projeto, onde estou aprendendo a utilizar o Git
